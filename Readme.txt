@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+tablaue dashboard link --https://public.tableau.com/views/dashboard1_16816141419980/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Template Name: Techie
-Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+story link--https://public.tableau.com/views/story1_16820882118940/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+vedio link--
